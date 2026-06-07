@@ -38,6 +38,9 @@ This project is an interactive Sales Dashboard built using Power BI to analyze r
 
 <img width="1120" height="625" alt="image" src="https://github.com/user-attachments/assets/4231b577-0d1a-46dd-86b7-c759a434550a" />
 
+##  Forecasting preview
+
+<img width="1117" height="632" alt="image" src="https://github.com/user-attachments/assets/351eaf94-6be7-4799-a641-d660b25e7e8d" />
 
 ## 🔍 Key Insights
 
